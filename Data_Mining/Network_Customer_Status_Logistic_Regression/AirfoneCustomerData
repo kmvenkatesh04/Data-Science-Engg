@@ -1,0 +1,63 @@
+The Airfone is internet service provider offering internet services to users all over the country. They are concerned about customer churn and trying to understand which customers are likely to leave, so that they can make focused effort on customer retention.
+ 
+
+The training data provided with the problem statement gives attrition status of past/present customers. The following features are included
+
+Feature
+
+Description
+
+Active Customer
+
+1- Active, 0- Attrited
+
+Income
+
+Monthly Income of the customer
+
+months_on_network
+
+Duration in months, the customer has been a customer of Airfone
+
+Num_complaints
+
+Number of complaints so far lodged by the customer
+
+number_plan_changes
+
+How many times the customer changed the plan
+
+relocated
+
+This is relocated indicator, 0- Not relocated, 1 – Relocated
+
+monthly_bill
+
+Monthly bill for the customer
+
+technical_issues_per_month
+
+Technical issues per month leading to disruption or slow in speed
+
+Speed_test_result
+
+Internet speed of Airfone
+
+Aim of this is to
+
+Building a Predictive Model (Which features decide attrition?)
+Evaluate the model.
+Refine the model, as appropriate
+  
+one needs to:
+
+Select a method for performing the analytic task
+Carry out descriptive summarization of data and make observations
+Any observation about missing values and outlier? What treatment will you consider?
+Identify relevant, irrelevant attributes for building model.
+Provide the attributes in the descending Order in terms of Predictive power
+Perform appropriate data transformations with justifications
+Generate new features if needed
+Carry out the chosen analytic task. Show results including intermediate results, as needed
+Evaluate the Model performance and share the validation results.
+Look for refinement opportunities
