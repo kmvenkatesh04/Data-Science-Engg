@@ -1,0 +1,299 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Welcome To Colaboratory",
+      "provenance": [],
+      "collapsed_sections": [],
+      "toc_visible": true,
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/kmvenkatesh04/Data-Science-Engg/blob/master/ArtificialComputationalIntelligence\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "TOaJY-xisEfd",
+        "colab_type": "text"
+      },
+      "source": [
+        "<center><h1> Artifical and Computational Intelligence Assignment 1 </h1></center>\n",
+        " \n",
+        "Problem Solving by using A*\n",
+        "\n",
+        "Weightage: 13%\n",
+        "\n",
+        "Date of Posting - 20/July/2020\n",
+        "\n",
+        "Deadline - 30/July/2020"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "e74PqRiNtRdZ",
+        "colab_type": "text"
+      },
+      "source": [
+        "Please Enter group and Individual information below:\n",
+        "\n",
+        "Group ID/Number:\n",
+        "\n",
+        "Group Members BITS ID:"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "ynlx1RzztSpQ",
+        "colab_type": "text"
+      },
+      "source": [
+        "<h3>Things to Follow</h3>\n",
+        "\n",
+        "1. Use appropriate data structures for the fringes and explain the reasoning behind the usage. You need not create data structures, instead use available libraries directly.\n",
+        "\n",
+        "2. Avoid any hard-coding unless absolutely necessary.\n",
+        "\n",
+        "3. Provide proper documentation\n",
+        "\n",
+        "4. Read the question file provided carefully and attempt all the questions! "
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "lWKbmO6btVCy",
+        "colab_type": "text"
+      },
+      "source": [
+        "Coding begins now!!!"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "DsEVaIHQtZOL",
+        "colab_type": "text"
+      },
+      "source": [
+        "1) Define the environment representation in the following code block"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "LRAfdLRFtdQ5",
+        "colab_type": "text"
+      },
+      "source": [
+        "PEAS Description of the task environment here :\n",
+        "\n",
+        "\n",
+        "\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "l0TQu0iwtpby",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "#Environment representation goes here\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "9QkQyNQltnSF",
+        "colab_type": "text"
+      },
+      "source": [
+        "Define the haversine formula and what it does"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "yT3aik4mtqSK",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "#haversine formula representation \n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "g1jG4es4toAH",
+        "colab_type": "text"
+      },
+      "source": [
+        "2) Define a function which calculates the heuristic distance from each city to the destination city in the following code block"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "krMd6ULutv_X",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "#Function for calculating distance from each node/city to Destination\n",
+        "#Code Block 2 ..\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "W5RQTAPhtyAN",
+        "colab_type": "text"
+      },
+      "source": [
+        "3) Implementation of A* Algorithm . Feel free to add code blocks for each methods needed starting here.\n",
+        "Please modularize the implementation of A* and write each of them in a code block. "
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "9yf6ZKFjt1OU",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "#Code Block 1\n",
+        "#Code Block 2"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "nMzN29P0t1lK",
+        "colab_type": "text"
+      },
+      "source": [
+        "Call your main function/algorithm block in the next code block with appropriate input representation"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "H-DzY0XRt4OL",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "#Computation call"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "MXlaQ6Lxt4ny",
+        "colab_type": "text"
+      },
+      "source": [
+        "The agent should provide expected output for questions mentioned below in the subsequent blocks"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "XSsO_Ygat7HK",
+        "colab_type": "text"
+      },
+      "source": [
+        "(3.1) Path taken to reach destination from Bengaluru"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "Q8RnY_oHuDbZ",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "# Execute statement to retrieve the path taken here\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "piC-crXhuE77",
+        "colab_type": "text"
+      },
+      "source": [
+        "(3.2) Cost of the path"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "JnEQWMxSuAQp",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "# Execute statement to retrieve the cost of the path here\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "PA6EqdO7uHlU",
+        "colab_type": "text"
+      },
+      "source": [
+        "(3.3) Total Number of nodes vistied to get this state"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "PPz2PaaruKZZ",
+        "colab_type": "code",
+        "colab": {}
+      },
+      "source": [
+        "# Execute statement to retrieve the total number of nodes visited to get this state here\n"
+      ],
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
